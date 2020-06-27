@@ -56,12 +56,11 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;kisna author   \033[1;93m: \033[1;92mRana Aahil
+\033[1;kisna author kisns  \033[1;93m: \033[1;92mRana Aahil
 \033[1; \033[1;93m: my email - hlost2331@gmail.com
 \033[1;producer kisna verma 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
-\033[1;91m======================================="""
-
+\033[1;91m=======================================
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -80,15 +79,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m none 
+\033[1;96mAuthor  \033[1;93m: \033[1;92m kisna verma 
 \033[1;96mInstagram \033[1;93m: \033[1;92m unique___hastel
 \033[1;96mFacebook  \033[1;93m: \033[1;92m none 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;92m https://github.com/Jokerheroki/blackheart/new/master/.github/workflows/blank.yml
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = kisna 
-CorrectPassword = kisna
+CorrectUsername = 'kisna'
+CorrectPassword = 'kisna'
 
 loop = 'true'
 while (loop == 'true'):
